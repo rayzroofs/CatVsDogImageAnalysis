@@ -1,7 +1,7 @@
 # CatVsDogImageAnalysis
 Matlab code analyzing features of cats and dogs, using 25 images of one cat breed and 25 images of one dog breed, with attempts to distinguish the animal.
 
-dogs_sample_images and cats_sample_images contain the original sample images that analysis was done on
+dogs_sample_images and cats_sample_images contain the original sample images that analysis was done on  
 
 dogs_test_images and cats_test_images contain images that were used in attempts to distinguish the two animals, no images from the sample folders were used here
 
