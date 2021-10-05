@@ -8,7 +8,7 @@ dogs_test_images and cats_test_images contain images that were used in attempts 
 File order to get to end results:
 
 final_run_and_classify
-	- this will run the following MatLab files and store prediction results in "finalDogTestResult" and "finalCatTestResult"
+    - this will run the following MatLab files and store prediction results in "finalDogTestResult" and "finalCatTestResult"
 
 
 final_RGB_Read_and_Split
